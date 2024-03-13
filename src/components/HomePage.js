@@ -25,7 +25,7 @@ const styles = {
 const HomePage = () => {
     return (
         <div style={styles.container}>
-            <h2>Welcome to Shivansh Sharma and Mohit Narula's Project</h2>
+            <h2>Welcome to Our Project</h2>
             <p>This project is designed to showcase our abilities to work with React, including state management, routing, and interacting with an API.</p>
 
             <h3>Creators:</h3>
@@ -38,12 +38,12 @@ const HomePage = () => {
                 </thead>
                 <tbody>
                     <tr>
-                        <td style={styles.td}>A B</td>
-                        <td style={styles.td}>Developer</td>
+                        <td style={styles.td}>Shivansh Sharma</td>
+                        <td style={styles.td}>Student</td>
                     </tr>
                     <tr>
-                        <td style={styles.td}>C D</td>
-                        <td style={styles.td}>Designer</td>
+                        <td style={styles.td}>Mohit Narula</td>
+                        <td style={styles.td}>Student</td>
                     </tr>
                 </tbody>
             </table>
